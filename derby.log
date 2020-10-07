@@ -1,0 +1,1653 @@
+----------------------------------------------------------------
+Wed Oct 07 14:43:29 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\7dc640d8-cbad-472f-8748-88cee9093c8c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:44:18 EAT 2020:
+Shutting down instance a816c00e-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\7dc640d8-cbad-472f-8748-88cee9093c8c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:44:20 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 292a80bc-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\a9563fb5-90c1-4e12-9303-820153fa63fa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:44:21 EAT 2020:
+Shutting down instance 292a80bc-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\a9563fb5-90c1-4e12-9303-820153fa63fa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:45:17 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 87cf416a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\49d034d7-6f71-46ef-b011-58be9f436b41 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:50:35 EAT 2020:
+Shutting down instance 87cf416a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\49d034d7-6f71-46ef-b011-58be9f436b41 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:50:38 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a61e821c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\463ec3a2-909b-476b-aabf-57ec98dedeef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:50:47 EAT 2020:
+Shutting down instance a61e821c-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\463ec3a2-909b-476b-aabf-57ec98dedeef with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:50:49 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 409342ca-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\21d0c228-59e2-4c40-9571-706a2a517c77 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:51:34 EAT 2020:
+Shutting down instance 409342ca-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\21d0c228-59e2-4c40-9571-706a2a517c77 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:51:36 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 38990378-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\81aacb3b-d935-4e04-bff3-2163406b9c13 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:51:38 EAT 2020:
+Shutting down instance 38990378-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\81aacb3b-d935-4e04-bff3-2163406b9c13 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:51:40 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0e2fc426-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\fd61d72e-972e-4f8d-a52d-d2ae0bbd05f8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:51:43 EAT 2020:
+Shutting down instance 0e2fc426-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\fd61d72e-972e-4f8d-a52d-d2ae0bbd05f8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:51:44 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 415784d4-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\8893bf08-3cb3-44e1-aef9-ee3320cefa92 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:52:17 EAT 2020:
+Shutting down instance 415784d4-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\8893bf08-3cb3-44e1-aef9-ee3320cefa92 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:52:19 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 52104582-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\93c590fd-b17d-4545-8ac9-5dc5498cfca0 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:52:38 EAT 2020:
+Shutting down instance 52104582-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\93c590fd-b17d-4545-8ac9-5dc5498cfca0 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:52:39 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c05a0630-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\8e1a8bd2-e923-4849-bcbd-896997e61e8b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:52:41 EAT 2020:
+Shutting down instance c05a0630-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\8e1a8bd2-e923-4849-bcbd-896997e61e8b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:52:42 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0c34c6de-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\84f7cede-94e1-43d9-bb50-cb10ec523f92 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:52:45 EAT 2020:
+Shutting down instance 0c34c6de-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\84f7cede-94e1-43d9-bb50-cb10ec523f92 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:52:46 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b5a0878c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\71587745-ae93-4758-8afe-3dc4c17ca599 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:52:56 EAT 2020:
+Shutting down instance b5a0878c-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\71587745-ae93-4758-8afe-3dc4c17ca599 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:52:57 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3c9d483a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\7aabc152-e4ab-4095-9847-c04c46d9fed2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:53:02 EAT 2020:
+Shutting down instance 3c9d483a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\7aabc152-e4ab-4095-9847-c04c46d9fed2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:53:03 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 212b08e8-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ebd8756e-1ecb-4dc3-9580-bf5cae86f91d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:54:09 EAT 2020:
+Shutting down instance 212b08e8-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ebd8756e-1ecb-4dc3-9580-bf5cae86f91d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:54:10 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e349c996-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\7bad8e73-2636-47c6-9a1a-04bd00480fc6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:54:38 EAT 2020:
+Shutting down instance e349c996-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\7bad8e73-2636-47c6-9a1a-04bd00480fc6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:54:39 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 02f98a44-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\e874cdb2-9073-4a75-a76f-0fa366381945 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:54:40 EAT 2020:
+Shutting down instance 02f98a44-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\e874cdb2-9073-4a75-a76f-0fa366381945 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:54:40 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 003a4af2-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\e874cdb2-9073-4a75-a76f-0fa366381945 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:55:08 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9af6caf3-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\073dacc4-8cce-4079-94f9-4ee92e6244e4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:55:09 EAT 2020:
+Shutting down instance 9af6caf3-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\073dacc4-8cce-4079-94f9-4ee92e6244e4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:55:11 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 65f40ba1-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\a4f3bea2-6f96-47d5-9e4a-955be6b46797 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:56:45 EAT 2020:
+Shutting down instance 65f40ba1-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\a4f3bea2-6f96-47d5-9e4a-955be6b46797 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:56:46 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e824c4f-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\8433b6d5-62d7-4f5e-afa4-932aa94bc71a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:56:50 EAT 2020:
+Shutting down instance 4e824c4f-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\8433b6d5-62d7-4f5e-afa4-932aa94bc71a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:56:51 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d4a18cfd-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\04aa52d5-271d-424d-8ee1-059ffbf94a4d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:56:53 EAT 2020:
+Shutting down instance d4a18cfd-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\04aa52d5-271d-424d-8ee1-059ffbf94a4d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:56:54 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7851cdab-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\3c840a5f-3682-4f6d-86bd-43a5582dbe4a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:56:56 EAT 2020:
+Shutting down instance 7851cdab-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\3c840a5f-3682-4f6d-86bd-43a5582dbe4a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:56:58 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b9930e59-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\6c3c67ac-b778-4090-8de6-194b8d5f9741 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 14:57:06 EAT 2020:
+Shutting down instance b9930e59-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\6c3c67ac-b778-4090-8de6-194b8d5f9741 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 14:57:07 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 18654f07-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f34f7b4f-0517-4b97-a211-b1a624a68ca6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:09:30 EAT 2020:
+Shutting down instance 18654f07-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\f34f7b4f-0517-4b97-a211-b1a624a68ca6 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:09:31 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 14c88fb5-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\a369f6be-3afa-4085-b64e-aece13dcb2c2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:09:31 EAT 2020:
+Shutting down instance 14c88fb5-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\a369f6be-3afa-4085-b64e-aece13dcb2c2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:09:37 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2ebcd063-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\263d8020-412c-400d-92f3-2e01c78e3a53 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:09:37 EAT 2020:
+Shutting down instance 2ebcd063-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\263d8020-412c-400d-92f3-2e01c78e3a53 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:09:37 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e6421111-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\263d8020-412c-400d-92f3-2e01c78e3a53 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:09:45 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 72865112-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\223ac6c0-18a4-4007-b2d1-7ec7212b2bc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:09:48 EAT 2020:
+Shutting down instance 72865112-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\223ac6c0-18a4-4007-b2d1-7ec7212b2bc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:09:49 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d7c811c0-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ef01669e-3d00-4d8a-812b-26a4d5c66011 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:20 EAT 2020:
+Shutting down instance d7c811c0-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ef01669e-3d00-4d8a-812b-26a4d5c66011 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:14:21 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1a9ad26e-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\91245337-c19e-4010-949b-af17ae4b0bc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:21 EAT 2020:
+Shutting down instance 1a9ad26e-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\91245337-c19e-4010-949b-af17ae4b0bc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:14:21 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance bafe931c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\91245337-c19e-4010-949b-af17ae4b0bc9 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:25 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 67c5931d-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\412df749-6717-4ed4-b1ee-6bd50eaa9943 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:29 EAT 2020:
+Shutting down instance 67c5931d-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\412df749-6717-4ed4-b1ee-6bd50eaa9943 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:14:30 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 15e5d3cb-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\fdacd7fc-3073-4402-af11-9c5b6dd59ea4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:33 EAT 2020:
+Shutting down instance 15e5d3cb-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\fdacd7fc-3073-4402-af11-9c5b6dd59ea4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:14:34 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 61971479-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\37a34f22-c958-48f9-8d88-c59e17a2bd42 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:14:47 EAT 2020:
+Shutting down instance 61971479-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\37a34f22-c958-48f9-8d88-c59e17a2bd42 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:14:48 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance cad95527-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\0f850248-824a-4e81-be25-a09c600f0ec3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:15:56 EAT 2020:
+Shutting down instance cad95527-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\0f850248-824a-4e81-be25-a09c600f0ec3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:15:57 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d1ac95d5-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\38c03b2e-de4f-4a98-892b-ea4ff15ba90b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:40 EAT 2020:
+Shutting down instance d1ac95d5-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\38c03b2e-de4f-4a98-892b-ea4ff15ba90b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:42:41 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e63968d-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:41 EAT 2020:
+Shutting down instance 4e63968d-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Wed Oct 07 15:42:41 EAT 2020 Thread[Thread-526,5,main] Cleanup action starting
+ERROR XBM0J: Directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 already exists.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Cleanup action completed
+Wed Oct 07 15:42:41 EAT 2020 Thread[Thread-526,5,main] Cleanup action starting
+java.sql.SQLException: Failed to create database 'memory:9989dc47-638c-4dd5-ae20-64c0b1e57648', see the next exception for details.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.seeNextException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: ERROR XJ041: Failed to create database 'memory:9989dc47-638c-4dd5-ae20-64c0b1e57648', see the next exception for details.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.wrapArgsForTransportAcrossDRDA(Unknown Source)
+	... 15 more
+Caused by: ERROR XBM0J: Directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 already exists.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+============= begin nested exception, level (1) ===========
+java.sql.SQLException: Directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 already exists.
+	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.Util.generateCsSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.wrapInSQLException(Unknown Source)
+	at org.apache.derby.impl.jdbc.TransactionResourceImpl.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.handleException(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+Caused by: ERROR XBM0J: Directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 already exists.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	... 12 more
+============= end nested exception, level (1) ===========
+============= begin nested exception, level (2) ===========
+ERROR XBM0J: Directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 already exists.
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService$10.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.services.monitor.StorageFactoryService.createServiceRoot(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.bootService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.BaseMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.services.monitor.FileMonitor.createPersistentService(Unknown Source)
+	at org.apache.derby.iapi.services.monitor.Monitor.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createPersistentService(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.createDatabase(Unknown Source)
+	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+============= end nested exception, level (2) ===========
+Cleanup action completed
+----------------------------------------------------------------
+Wed Oct 07 15:42:42 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 920bd73b-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\9989dc47-638c-4dd5-ae20-64c0b1e57648 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:47 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8fda973c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\d4d9b213-b9bf-43a0-9c71-ade5d62c87a5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:51 EAT 2020:
+Shutting down instance 8fda973c-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\d4d9b213-b9bf-43a0-9c71-ade5d62c87a5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:42:53 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c13f57ea-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\8dc760d4-39f3-48d3-bb53-f4fc6fd3e123 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:55 EAT 2020:
+Shutting down instance c13f57ea-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\8dc760d4-39f3-48d3-bb53-f4fc6fd3e123 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:42:57 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 50351898-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\60fd00f5-18b1-4b30-b16a-0cf6466b985c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:42:57 EAT 2020:
+Shutting down instance 50351898-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\60fd00f5-18b1-4b30-b16a-0cf6466b985c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:42:57 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance bcbbd946-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\60fd00f5-18b1-4b30-b16a-0cf6466b985c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:43:03 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance bb0d5947-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ff5ace40-27f2-4a79-9ba9-3876c94bafcb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:43:04 EAT 2020:
+Shutting down instance bb0d5947-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ff5ace40-27f2-4a79-9ba9-3876c94bafcb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:43:06 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 755099f5-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\2830ae02-4164-4243-96f7-91e5e0b6f991 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:43:06 EAT 2020:
+Shutting down instance 755099f5-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\2830ae02-4164-4243-96f7-91e5e0b6f991 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:43:06 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4d24daa3-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\2830ae02-4164-4243-96f7-91e5e0b6f991 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:43:12 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8bcd9aa4-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f26e3138-5969-402d-8ec3-87b8e41a12de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:50:30 EAT 2020:
+Shutting down instance 8bcd9aa4-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\f26e3138-5969-402d-8ec3-87b8e41a12de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:50:32 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 515e5b52-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ed3fe0eb-f1ea-403b-8a22-f964bd68b319 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:50:34 EAT 2020:
+Shutting down instance 515e5b52-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ed3fe0eb-f1ea-403b-8a22-f964bd68b319 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:50:35 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 74801c00-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\6af7ef94-d79e-4107-8ee7-c8f0b878bf36 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:50:42 EAT 2020:
+Shutting down instance 74801c00-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\6af7ef94-d79e-4107-8ee7-c8f0b878bf36 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:50:42 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7532dcae-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\894f823f-5bab-4123-b760-fd4aefe9c72d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:50:55 EAT 2020:
+Shutting down instance 7532dcae-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\894f823f-5bab-4123-b760-fd4aefe9c72d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:50:56 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d3769d5c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\7c7ee570-4f3f-47c8-8ac2-b4b68d3d7817 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:51:17 EAT 2020:
+Shutting down instance d3769d5c-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\7c7ee570-4f3f-47c8-8ac2-b4b68d3d7817 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:51:18 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0f4b5e0a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\799eb2d1-775e-4d44-8b78-8b518236363b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:54:17 EAT 2020:
+Shutting down instance 0f4b5e0a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\799eb2d1-775e-4d44-8b78-8b518236363b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:54:18 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a8b11eb8-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ab49cb03-83af-4cdb-b08b-3b25cde7f745 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:54:21 EAT 2020:
+Shutting down instance a8b11eb8-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ab49cb03-83af-4cdb-b08b-3b25cde7f745 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:54:22 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1fa7df66-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\c0929668-316f-44b8-b042-74cde9eb629c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:54:28 EAT 2020:
+Shutting down instance 1fa7df66-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\c0929668-316f-44b8-b042-74cde9eb629c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:54:28 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f42fa014-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\9473f584-0a16-4eca-b1d6-b3a010593517 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:54:37 EAT 2020:
+Shutting down instance f42fa014-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\9473f584-0a16-4eca-b1d6-b3a010593517 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:54:38 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a64860c2-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\4bc44758-241f-4c2b-b86e-cffe043c0119 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:55:25 EAT 2020:
+Shutting down instance a64860c2-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\4bc44758-241f-4c2b-b86e-cffe043c0119 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:55:26 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b5f22170-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\b006019a-6fd9-4ce9-a0d0-8ab9313c52ca with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:55:29 EAT 2020:
+Shutting down instance b5f22170-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\b006019a-6fd9-4ce9-a0d0-8ab9313c52ca with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:55:30 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a32ce21e-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\90e376c3-2867-4b5f-a5d5-e9e661d99b4f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:55:38 EAT 2020:
+Shutting down instance a32ce21e-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\90e376c3-2867-4b5f-a5d5-e9e661d99b4f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:55:39 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance edf8a2cc-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\561a9887-4600-4e22-93e3-b9e2fbdaf27b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:57:36 EAT 2020:
+Shutting down instance edf8a2cc-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\561a9887-4600-4e22-93e3-b9e2fbdaf27b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:57:37 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1655637a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\163ec464-953b-442e-b68b-2c8713d32325 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:57:55 EAT 2020:
+Shutting down instance 1655637a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\163ec464-953b-442e-b68b-2c8713d32325 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:57:56 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9c432428-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\5efc4bfd-3e56-4a21-8255-f7a389e8ee10 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:01 EAT 2020:
+Shutting down instance 9c432428-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\5efc4bfd-3e56-4a21-8255-f7a389e8ee10 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:02 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ffc1e4d6-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\9c04ba2e-0f88-4cef-b1ae-73867219551b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:09 EAT 2020:
+Shutting down instance ffc1e4d6-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\9c04ba2e-0f88-4cef-b1ae-73867219551b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:10 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c0d1a584-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\cb3991a7-0ec6-42ff-9e61-3d487d9b4a22 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:12 EAT 2020:
+Shutting down instance c0d1a584-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\cb3991a7-0ec6-42ff-9e61-3d487d9b4a22 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:13 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5f726632-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\1a1a9dc6-0f32-4f8f-82a0-0b1846e708e3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:21 EAT 2020:
+Shutting down instance 5f726632-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\1a1a9dc6-0f32-4f8f-82a0-0b1846e708e3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:22 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5ba426e0-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\fd8239dc-2c19-4816-a891-17b6381ca267 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:26 EAT 2020:
+Shutting down instance 5ba426e0-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\fd8239dc-2c19-4816-a891-17b6381ca267 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:27 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3566e78e-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\a123fe4d-299b-403a-b449-a6e91a11e59c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:31 EAT 2020:
+Shutting down instance 3566e78e-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\a123fe4d-299b-403a-b449-a6e91a11e59c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:32 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6cbaa83c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\13f955e6-7984-4cfe-a9b8-576cbd448ae4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:37 EAT 2020:
+Shutting down instance 6cbaa83c-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\13f955e6-7984-4cfe-a9b8-576cbd448ae4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:39 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 819f68ea-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f8e93f33-ff6c-4610-9bb9-2b551de0214d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:39 EAT 2020:
+Shutting down instance 819f68ea-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\f8e93f33-ff6c-4610-9bb9-2b551de0214d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:39 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f4152998-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f8e93f33-ff6c-4610-9bb9-2b551de0214d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:46 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 467b2999-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\b5c2e61f-8bcf-4d09-a5ac-9592fcd3b565 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:58:49 EAT 2020:
+Shutting down instance 467b2999-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\b5c2e61f-8bcf-4d09-a5ac-9592fcd3b565 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:58:50 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 46ad6a47-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\1b21f412-500c-43f3-a471-d8efc7b5e8b5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 15:59:03 EAT 2020:
+Shutting down instance 46ad6a47-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\1b21f412-500c-43f3-a471-d8efc7b5e8b5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 15:59:04 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e470aaf5-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\5854eeae-12a2-406d-9697-bd090d38949c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:00:35 EAT 2020:
+Shutting down instance e470aaf5-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\5854eeae-12a2-406d-9697-bd090d38949c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:00:36 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9fc4eba3-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\62520f3e-c596-4e88-bd91-24891e889631 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:00:37 EAT 2020:
+Shutting down instance 9fc4eba3-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\62520f3e-c596-4e88-bd91-24891e889631 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:00:37 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f8aa2c51-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\62520f3e-c596-4e88-bd91-24891e889631 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:00:40 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8bbe6c52-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\d3068388-1bea-49ec-a0d8-d30d9e7a2100 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:00:40 EAT 2020:
+Shutting down instance 8bbe6c52-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\d3068388-1bea-49ec-a0d8-d30d9e7a2100 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:00:41 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 92602d00-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\d3068388-1bea-49ec-a0d8-d30d9e7a2100 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:00:48 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a5a02d01-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\8bb72f75-d629-4e1d-8651-8322712331c8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:01:09 EAT 2020:
+Shutting down instance a5a02d01-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\8bb72f75-d629-4e1d-8651-8322712331c8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:01:10 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 39fe6daf-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\d2e9b7f7-1a25-411d-9501-83ac113a4487 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:02:07 EAT 2020:
+Shutting down instance 39fe6daf-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\d2e9b7f7-1a25-411d-9501-83ac113a4487 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:02:08 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6bedae5d-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\250b8fe6-ffb5-42bc-91c1-7236ebce64d4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:02:12 EAT 2020:
+Shutting down instance 6bedae5d-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\250b8fe6-ffb5-42bc-91c1-7236ebce64d4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:02:13 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance bb6def0b-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\41d2bc11-2323-4e50-b749-695381e8a350 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:02:24 EAT 2020:
+Shutting down instance bb6def0b-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\41d2bc11-2323-4e50-b749-695381e8a350 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:02:25 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a87f2fb9-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f45ff1d6-be92-45d9-aaaf-b936448a86d4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:02:37 EAT 2020:
+Shutting down instance a87f2fb9-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\f45ff1d6-be92-45d9-aaaf-b936448a86d4 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:02:38 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b3217067-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\4d14d52c-8f7f-4c82-a8af-1a129d96045e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 16:02:47 EAT 2020:
+Shutting down instance b3217067-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\4d14d52c-8f7f-4c82-a8af-1a129d96045e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 16:02:49 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5b54b115-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\5fbb9a32-507c-4434-89ec-703460aa6398 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:48:40 EAT 2020:
+Shutting down instance 5b54b115-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\5fbb9a32-507c-4434-89ec-703460aa6398 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:48:41 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6589b1c4-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\bb3c49be-1771-4ebf-9e96-3d27517719e7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:48:51 EAT 2020:
+Shutting down instance 6589b1c4-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\bb3c49be-1771-4ebf-9e96-3d27517719e7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:48:52 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 190a7272-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\c489fe4f-c13f-4bc0-bfd6-6c1f5ad5c976 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:54:12 EAT 2020:
+Shutting down instance 190a7272-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\c489fe4f-c13f-4bc0-bfd6-6c1f5ad5c976 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:54:13 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0b863331-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\b992e139-3a05-4cb9-974b-f1b96502a9aa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:36 EAT 2020:
+Shutting down instance 0b863331-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\b992e139-3a05-4cb9-974b-f1b96502a9aa with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:56:37 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ad0c73df-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\65dbcf5f-d1f8-43f6-8903-47c3e5d760de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:38 EAT 2020:
+Shutting down instance ad0c73df-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\65dbcf5f-d1f8-43f6-8903-47c3e5d760de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:56:38 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance ec23b48d-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\65dbcf5f-d1f8-43f6-8903-47c3e5d760de with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:42 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e146f48e-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\4cd276c5-6940-4377-91d8-c5f612f5da40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:42 EAT 2020:
+Shutting down instance e146f48e-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\4cd276c5-6940-4377-91d8-c5f612f5da40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:56:43 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4e1ab53c-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\4cd276c5-6940-4377-91d8-c5f612f5da40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:46 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0369b53d-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\47ba5c58-ab9f-4ae2-8944-980672cea760 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:46 EAT 2020:
+Shutting down instance 0369b53d-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\47ba5c58-ab9f-4ae2-8944-980672cea760 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:56:46 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7df9f5eb-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\47ba5c58-ab9f-4ae2-8944-980672cea760 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:49 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0374b5ec-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\ec5d2eb1-5d99-4633-a5b1-4e6323c70eb7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:56:58 EAT 2020:
+Shutting down instance 0374b5ec-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\ec5d2eb1-5d99-4633-a5b1-4e6323c70eb7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:56:59 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6bc1769a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\b769667e-7bf9-4e15-bb07-74a62af74934 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:57:02 EAT 2020:
+Shutting down instance 6bc1769a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\b769667e-7bf9-4e15-bb07-74a62af74934 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:57:03 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 319f3748-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\756c3859-f9ae-4fdc-b41f-dd41903049a7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:57:56 EAT 2020:
+Shutting down instance 319f3748-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\756c3859-f9ae-4fdc-b41f-dd41903049a7 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:57:57 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance d303f7fb-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\43f29777-2792-4cad-8743-99e95b430c2a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:58:58 EAT 2020:
+Shutting down instance d303f7fb-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\43f29777-2792-4cad-8743-99e95b430c2a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:58:59 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 44dd38a9-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\f9cb382e-b173-4c6d-af89-3e6b265a521d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 17:59:26 EAT 2020:
+Shutting down instance 44dd38a9-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\f9cb382e-b173-4c6d-af89-3e6b265a521d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 17:59:27 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance e749795a-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\c3b5dbdb-30f6-41a0-83d1-b6936be97b2b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Oct 07 18:00:14 EAT 2020:
+Shutting down instance e749795a-0175-02df-9822-0000011e7e88 on database directory memory:E:\javaprojects\grupio\c3b5dbdb-30f6-41a0-83d1-b6936be97b2b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+----------------------------------------------------------------
+Wed Oct 07 18:00:15 EAT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 58de3a10-0175-02df-9822-0000011e7e88 
+on database directory memory:E:\javaprojects\grupio\264feb3d-4264-467a-8c94-6e7355769c4f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@15db9742 
+Loaded from file:/C:/Users/Gad/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15+36-1562
+user.dir=E:\javaprojects\grupio
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
